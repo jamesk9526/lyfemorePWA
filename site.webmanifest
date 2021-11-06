@@ -1,0 +1,23 @@
+{
+    "name": "LyfemoreNews",
+    "short_name": "Lyfemore",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiYF3c0EUO-HWdp6iOroLWot1JK-q1PvRCiKjtS-Cl41jWtRZ7zKrsLUmSmPv9JVYdIsgi6onACRMbSAY08XOUNz0Vtf3igwatQR-FpWPrlfT7Du1c6A7HxENBT9jJbyzVv2tRBo-QaQ--BPn7W2EayTtZDI4GuEDMX1XVxZ7nbjVliQypZ5gDhPB3s",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgFagAvn--Un8Yj6jDg77CAtAuBNtknBvyYu6Ie9yWnz7ZFcNdtcHxKuYKWaAh56tsbHtZ6mPrZUoyj8KglNVCqCBaQP2jDf85tiBY-CFPXKJl9jR-mfvfchiQBf40uve1WIAoPA0U1JAHECuhJRURroMNahl9ia8xwld_ks0v8f7AqTUEaki3ErxjW=s16000",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.lyfemore.com/"
+}
