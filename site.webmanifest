@@ -16,7 +16,7 @@
         }
     ],
     "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "background_color": "#474747",
     "display": "standalone",
     "prefer_related_applications": false,
   "start_url": "https://www.lyfemore.com/"
