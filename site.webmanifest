@@ -1,5 +1,5 @@
 {
-    "name": "Lyfemore News",
+    "name": "LyfemoreNews",
     "short_name": "Lyfemore",
     "icons": [
         {
@@ -20,6 +20,4 @@
     "display": "standalone",
     "prefer_related_applications": false,
   "start_url": "https://www.lyfemore.com/"
-    "categories": ["news", "blogs", "blog"]
-    "lang": "en-US"
 }
